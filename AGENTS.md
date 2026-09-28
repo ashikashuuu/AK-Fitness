@@ -9,5 +9,6 @@
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
 
-- The public AK Fitness site uses a single long-form home route and WhatsApp click-to-chat for enquiries; this works without storing visitor data or requiring payment credentials.
+- The public AK Fitness site uses separate Home, Programs, About, Pricing, and Contact routes with shared navigation; this makes every section directly accessible.
+- Enquiries use WhatsApp click-to-chat without storing visitor data or requiring payment credentials.
 - Generated fitness photography is illustrative only; do not present the pictured trainer or performance claims as verified AK Fitness people or results.
